@@ -90,8 +90,8 @@ confirmer = {}
 file_cache: dict[str, float] = {}
 
 START_IMG_URL = ["https://files.catbox.moe/hsc2j7.jpg",
-                 "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
-                 "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
+                 "https://files.catbox.moe/hsc2j7.jpg",
+                 "https://files.catbox.moe/hsc2j7.jpg"]
     
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/ca435n.jpg"
